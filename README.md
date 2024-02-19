@@ -1,4 +1,4 @@
-# README
+# Hi there!👋
 I'm Nexus, but also known as Sarthak.
 I'm currently working some new cool projects that will hopefully be useful to many people.
 
