@@ -8,10 +8,12 @@
         alt="nexus-codes" /> </p>
 
 - 🌱 I’m currently learning **advanced python**
-
+ 
+- ⚡ **By the way, I'm relatively active on the discord. If you have any programming related questions, I can recommend you to join this great community.**
+  
 - 📫 How to reach me **https://discord.com/users/1090521370854686740**
 
-- ⚡ Fun fact **Coding is boring!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
