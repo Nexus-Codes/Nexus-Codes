@@ -11,7 +11,7 @@
  
 - ⚡ **By the way, I'm relatively active on the discord. If you have any programming related questions, I can recommend you to join with me in this great community.**
   
-- 📫 How to reach me **https://discord.com/users/1090521370854686740**
+- 📫 How to reach me **https://discord.com/users/1147737759730110515**
 
 
 
